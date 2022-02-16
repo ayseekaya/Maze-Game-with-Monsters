@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\OKUL\1.sınıf\1.sınıf -2.dönem programlama proje\152120171008AYŞEKAYA\Project12\Source.cpp(19,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+D:\OKUL\1.sınıf\1.sınıf -2.dönem programlama proje\152120171008AYŞEKAYA\Project12\Source.cpp(30,18): warning C4101: 'sekil': yerel değişken başvurusu kaldırıldı
+  Project12.vcxproj -> D:\OKUL\1.sınıf\1.sınıf -2.dönem programlama proje\152120171008AYŞEKAYA\Debug\Project12.exe
